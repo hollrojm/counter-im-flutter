@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Ejemplo de la Aplicación]()
+![Ejemplo de la Aplicación](https://github.com/hollrojm/counter-im-flutter/blob/master/ejemplo.PNG)
 
 ## Getting Started
 
